@@ -44,7 +44,7 @@ We love contributions! Check out our Contributing Guide to get started.
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=MotiaDev/motia)](https://github.com/MotiaDev/motia/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=MotiaDev/motia)](#)
 
 </div>
 
