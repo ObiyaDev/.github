@@ -40,7 +40,7 @@ Read our documentation and get started today: `npx obiya@latest create -i`
 
 ## 🤝 Contributing
 
-We love contributions! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
+We love contributions! Check out our Contributing Guide to get started.
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Obiya is [MIT licensed](LICENSE) and open source. Build amazing things! 🚀
 
 <div align="center">
 
-**[Website](https://www.motia.dev)** • **[Documentation](https://www.motia.dev/docs)** • **[Discord](https://discord.gg/EnfDRFYW)** • **[Twitter](https://twitter.com/motiadev)**
+**[Website](#websiteURLhere)** • **[Documentation](#websiteDOCSsectionURLhere)** • **[Twitter](#)**
 
 Made with ❤️ by the Obiya team and community
 
