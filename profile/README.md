@@ -29,11 +29,8 @@ Obiya is a modern backend framework that unifies APIs, background jobs, events, 
 Obiya brings cohesion to the fragmented backend world with our core primitive: **the Step**.
 
 
-Read [our documentation](https://www.motia.dev/docs) and get started today: `npx obiya@latest create -i`
+Read our documentation and get started today: `npx obiya@latest create -i`
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MotiaDev/motia?style=flat&logo=github&logoColor=white&labelColor=000000)
-![GitHub issues](https://img.shields.io/github/issues/MotiaDev/motia?style=flat&logo=github&logoColor=white&labelColor=000000)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/MotiaDev/motia?style=flat&logo=github&logoColor=white&labelColor=000000)
 
 **Join thousands of developers building the future of backend development**
 
