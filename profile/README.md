@@ -1,8 +1,8 @@
 <p align="center">
   <!-- shows in LIGHT mode only -->
-  <img src="https://github.com/MotiaDev/motia/raw/main/assets/motia-logo-light.png#gh-dark-mode-only"  width="400" alt="Motia logo" />
+  <img src="https://github.com/ObiyaDev/.github/blob/main/profile/obiya_logo.png#gh-dark-mode-only"  width="400" alt="Motia logo" />
   <!-- shows in DARK mode only -->
-  <img src="https://github.com/MotiaDev/motia/raw/main/assets/motia-logo-dark.png#gh-light-mode-only" width="400" alt="Motia logo (dark)" />
+  <img src="https://github.com/ObiyaDev/.github/blob/main/profile/obiya_logo_light.png#gh-light-mode-only" width="400" alt="Motia logo (dark)" />
 </p>
 
 <div align="center">
@@ -37,7 +37,7 @@ Read [our documentation](https://www.motia.dev/docs) and get started today: `npx
 
 **Join thousands of developers building the future of backend development**
 
-![Motia-Architecture](https://github.com/MotiaDev/motia/raw/main/assets/motia-architecture-with-bg.png)
+![Motia-Architecture](https://github.com/ObiyaDev/.github/blob/main/profile/npx%20obiya%20latest%20create%20-i.png)
 
 </div>
 
